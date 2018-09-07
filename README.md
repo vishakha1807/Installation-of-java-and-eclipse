@@ -45,12 +45,21 @@ Step 4: Create Eclipse App Launcher
 2. Next, copy and paste the content below into the file and save
 
 [Desktop Entry]
+
 Name=Eclipse JEE Oxygen
+
 Type=Application
+
 Exec=/home/richard/eclipse/jee-oxygen/eclipse/eclipse
+
 Terminal=false
+
 Icon=/home/richard/eclipse/jee-oxygen/eclipse/icon.xpm
+
 Comment=Integrated Development Environment
+
 NoDisplay=false
+
 Categories=Development;IDE;
+
 Name[en]=Eclipse
